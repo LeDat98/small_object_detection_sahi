@@ -1,0 +1,3 @@
+sahi
+opencv-python
+ultralytics
